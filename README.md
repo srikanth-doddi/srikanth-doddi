@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[Website](https://srikanthdoddi.com/) 🔸
+[LinkedIn](https://www.linkedin.com/in/srikanthdoddi/) 🔸
+[Blogs](http://architectureterminal.com/)
+
+
 <!--
 **srikanth-doddi/srikanth-doddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
