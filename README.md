@@ -36,10 +36,6 @@ Currently leading the AIML Center of Excellence at OSI Digital, specializing in 
 - Accenture Spot Awards, 2019
 - Co-organizer for FOSS community events  
 
-
-## 📫 Let's Connect!
-[LinkedIn](https://linkedin.com/in/srikanthdoddi) | [Email](mailto:srikanth.cloudarch@gmail.com)  
-
 > “Design with purpose, build with passion, lead with innovation.”
 
 ---
