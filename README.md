@@ -1,11 +1,9 @@
 # Hi, I'm Srikanth Doddi 👋  
 **Architect | AI/ML | Cloud Leader | Full-Stack Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srikanthdoddi-blue?logo=linkedin)](https://linkedin.com/in/srikanthdoddi)  
-[![Email](https://img.shields.io/badge/Email-srikanth.cloudarch@gmail.com-red?logo=gmail)](mailto:srikanth.cloudarch@gmail.com)  
-🌐 [Architecture Terminal](https://architectureterminal.com) | [AWS Terminal](https://awsterminal.com) | [Tech Lead Manager](https://techleadmanager.com) | [Personal Blog](https://srikanthdoddi.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srikanthdoddi-blue?logo=linkedin)](https://linkedin.com/in/srikanthdoddi)  [![Email](https://img.shields.io/badge/Email-srikanth.cloudarch@gmail.com-red?logo=gmail)](mailto:srikanth.cloudarch@gmail.com)  [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=flat-square&logo=adobeacrobat&logoColor=white)](./Srikanth-Doddi-Architect-Resume.pdf)
 
-[![Download My Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](./Srikanth-Doddi-Architect-Resume.pdf)
+[![Architecture Terminal](https://img.shields.io/badge/Architecture%20Terminal-FF5722?style=flat-square&logo=angular&logoColor=white)](https://architectureterminal.com) [![AWS Terminal](https://img.shields.io/badge/AWS%20Terminal-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://awsterminal.com) [![Tech Lead Manager](https://img.shields.io/badge/Tech%20Lead%20Manager-007ACC?style=flat-square&logo=microsoftazure&logoColor=white)](https://techleadmanager.com) [![Personal Blog](https://img.shields.io/badge/Personal%20Blog-4CAF50?style=flat-square&logo=wordpress&logoColor=white)](https://srikanthdoddi.com)
 
 ---
 
