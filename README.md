@@ -1,94 +1,91 @@
-## Hi there 👋
-
-[Website](https://srikanthdoddi.com/) 🔸
-[LinkedIn](https://www.linkedin.com/in/srikanthdoddi/) 🔸
-[Blogs](http://architectureterminal.com/)
-
-# Hi, I'm Srikanth Doddi 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-srikanthdoddi-blue?logo=linkedin)](https://linkedin.com/in/srikanthdoddi)  
-[![Email](https://img.shields.io/badge/Email-srikanth.cloudarch@gmail.com-red?logo=gmail)](mailto:srikanth.cloudarch@gmail.com)  
+# Hi, I'm Srikanth Doddi 👋  
+**Architect | AI/ML Enthusiast | Cloud Leader | Full-Stack Developer**
 
 ---
 
-## 🚀 About Me
+## 🔥 About Me
+Innovative architect and engineering leader with 7+ years of experience in full-stack development, AI/ML, and cloud-native distributed systems. Proven success in designing scalable enterprise-grade solutions, leading teams, and driving solution architecture with a focus on impact and operational excellence.
 
-Innovative Architect and engineering leader with proven expertise in full-stack development, AI/ML, and distributed cloud solutions. I drive scalable enterprise-grade systems with strong leadership in presales, technical design, and cross-functional team guidance.
-
-Currently spearheading the AIML Center of Excellence at OSI Digital, architecting advanced GenAI solutions, microservice architectures, and event-driven cloud workflows with a focus on real-world business impact and operational excellence.
-
----
-
-## 👨‍💻 What I Do
-
-- Lead architectural strategy and innovation for AI/ML, cloud-native microservices, and enterprise distributed systems.
-- Build scalable AIML pipelines, large language model-based retrieval-augmented generation (RAG) chatbots, and agentic AI systems.
-- Design and implement event-driven, saga-pattern cloud applications using AWS Lambda, SQS, and SNS.
-- Develop end-to-end demand forecasting and OCR processing pipelines with interpretable ML and cloud automation.
-- Manage teams, mentor engineers, and drive open source community initiatives (FOSS co-organizer, PyCon India speaker).
+Currently leading the AIML Center of Excellence at OSI Digital, specializing in GenAI, Retrieval-Augmented Generation (RAG), event-driven cloud architectures, and cutting-edge AI systems.
 
 ---
 
-## 🛠 Skills & Technologies
-
-| Area               | Technologies & Tools                                      |
-|--------------------|----------------------------------------------------------|
-| Programming        | Python, JavaScript, Swift, Go, TypeScript, Shell Script  |
-| AI & ML            | OpenAI, HuggingFace, LangChain, SageMaker, Dialogflow    |
-| Cloud Platforms    | AWS (Lambda, S3, SageMaker, EC2), Azure, GCP, Alibaba     |
-| Architectures      | Microservices, Event-Driven, Distributed Systems, CICD    |
-| DevOps & CI/CD      | Docker, Kubernetes, GitHub Actions, Jenkins, Terraform   |
-| Databases          | MongoDB, DynamoDB, PostgreSQL, MySQL, VectorDBs          |
-| Frontend & Backend | React, Angular, Node.js, Flask, FastAPI, Electron, Ionic  |
+## 📚 My Blogs & Resources
+- [Architecture Terminal](https://architectureterminal.com/)
+- [AWS Terminal](https://awsterminal.com/)
+- [Tech Lead Manager](https://techleadmanager.com/)
+- [Personal Blog](https://srikanthdoddi.com/)
 
 ---
 
-## 📈 Achievements & Awards
+## 🛠️ Projects & Experience
 
-- **OSI Manager of the Year** - 2024  
-- **OSI Performer of the Year** - 2022  
+### Cloud & Distributed Systems
+- **Distributed OCR Application:** Architected and developed a fault-tolerant OCR processing pipeline using AWS Lambda, SQS, and SNS with saga patterns for multi-region and event-driven processing. Resulted in a 60% reduction in manual entry errors.
+- **Demand Forecasting Pipelines:** Developed predictive pipelines using ARIMA, Prophet, and Random Forest models for enterprise demand forecasting to optimize operational planning.
+- **Decentralized IPFS Storage Solutions:** Created decentralized blockchain-backed storage systems with desktop native and Electron applications.
+- **IoT Mission-Critical Solution:** Delivered IoT solutions with 99.9% uptime SLA for strategic clients leveraging cloud technologies and real-time monitoring.
+
+### AI, Machine Learning & GenAI
+- **Retrieval-Augmented Generation (RAG) Chatbots:** Developed multi-turn AI chatbots integrating document querying, machine reasoning, and agentic execution capabilities using LangChain, OpenAI, and Vector DBs.
+- **Multimodal AI:** Integrated computer vision, speech, and language for comprehensive AI applications including real-time avatar creation for AR/VR scenarios.
+- **Explainability & Governance:** Built interpretable ML models and incorporated governance policies for AI compliance across deployments.
+
+### Full-Stack Development & Real-Time Applications
+- **Web & Mobile Apps:** Built scalable React, Angular, Node.js, and Python applications for diverse business domains.
+- **Real-time Streaming:** Developed pipelines for low-latency avatar expression synchronization, session management, and interactive streaming content.
+- **Containerized Microservices:** Implemented microservice architectures with container orchestration using Kubernetes and Docker for scalable cloud deployments.
+
+### DevOps, CI/CD & Cloud Architecture
+- **Cross-Cloud Expertise:** Extensive experience with AWS, Azure, Google Cloud, and Alibaba Cloud services.
+- **Automation:** Established CI/CD pipelines using GitHub Actions, Jenkins, and Terraform, optimizing deployment and infrastructure lifecycle management.
+- **Cloud Cost Optimization:** Reduced cloud infrastructure costs by 20-40% by implementing serverless architectures and fine-tuning cloud resources.
+
+---
+
+## 🏆 Achievements & Awards
+- **OSI Manager of the Year 2024**  
+- **OSI Performer of the Year 2022**  
 - Accenture ACE Award (2019) and FY20H1 Spot Award (2020)  
-- Guest Speaker @ PyCon India 2025 on Retrieval-Augmented Generation (RAG)  
-- Co-organizer of Free Open Source Software (FOSS) community events  
+- Guest Speaker at **PyCon India 2025** on Retrieval-Augmented Generation (RAG)  
+- Co-organizer of Free Open Source Software (FOSS) events  
 
 ---
 
-## 🌍 Experience Highlights
+## 💼 Professional Experience
 
-### Architect, OSI Digital (Dec 2021 - Present)
+### Principal Software Engineer & Solutions Architect | OSI Digital (Dec 2021 – Present)  
+- Leading AIML COE initiatives with RAG, GenAI, and cloud-native architectures.  
+- Architected OCR systems, blockchain storage, and IoT cloud solutions with SLA-driven design.  
+- Managed multi-project teams and led presales for strategic client engagements.
 
-- Lead AIML Center of Excellence, employing LLMs, semantic search, and agentic AI for document querying and automation.
-- Designed scalable cloud architectures with event-driven microservices and multi-region fault tolerance.
-- Developed AI pipelines for demand forecasting and real-time OCR processing used in enterprise-grade solutions.
+### Senior Cloud Engineer | Presidio Cloud Solutions (Dec 2020 – Dec 2021)  
+- Built healthcare cloud applications with AWS EventBridge, Lambda, and SQS integration.  
+- Reduced latency and improved scalability by architecting serverless data pipelines.
 
-### Senior Software Engineer, Presidio Cloud Solutions (Dec 2020 - Dec 2021)
-
-- Mentored engineers, led scalable cloud architectural designs, and helped optimize healthcare cloud solutions.
-- Implemented AWS serverless and monitored Kubernetes clusters, increasing efficiency and reducing costs.
-
-### Software Developer, Accenture (Jan 2019 - Dec 2020)
-
-- Delivered containerized NodeJS applications on AWS ECS and improved team workflows with best practices.
+### Software Developer | Accenture (Jan 2019 – Dec 2020)  
+- Delivered containerized solutions on AWS ECS with NodeJS backend and Angular frontends.   
+- Improved deployment speed and code quality through automation and refactoring.
 
 ---
 
 ## 🎓 Education
 
-- M.Tech, Data Science Engineering – Birla Institute of Technology Science, Pilani  
-- B.Tech, Computer Science – Jawaharlal Nehru Technological University  
+- **M.Tech, Data Science Engineering**  
+  Birla Institute of Technology Science, Pilani
+
+- **B.Tech, Computer Science**  
+  Jawaharlal Nehru Technological University
 
 ---
 
 ## 📫 Connect with Me
-
-- LinkedIn: [linkedin.com/in/srikanthdoddi](https://linkedin.com/in/srikanthdoddi)  
-- Email: srikanth.cloudarch@gmail.com  
-- Blog & Talks: Technical deep dives on AI, cloud, and architecture coming soon!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srikanthdoddi-blue?logo=linkedin)](https://linkedin.com/in/srikanthdoddi)  
+Email: [srikanth.cloudarch@gmail.com](mailto:srikanth.cloudarch@gmail.com)  
 
 ---
 
-> "Innovate relentlessly, architect efficiently, and empower teams to build tomorrow’s tech today."
-
+> “Design with purpose, build with passion, and lead with innovation.”  
 ---
 
-<!-- Proudly crafted with ❤️ by Srikanth Doddi -->
+*Proudly crafted by Srikanth Doddi with ❤️*
