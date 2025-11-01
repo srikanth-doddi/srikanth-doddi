@@ -5,6 +5,8 @@
 [![Email](https://img.shields.io/badge/Email-srikanth.cloudarch@gmail.com-red?logo=gmail)](mailto:srikanth.cloudarch@gmail.com)  
 🌐 [Architecture Terminal](https://architectureterminal.com) | [AWS Terminal](https://awsterminal.com) | [Tech Lead Manager](https://techleadmanager.com) | [Personal Blog](https://srikanthdoddi.com)  
 
+[![Download My Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](./Srikanth-Doddi-Architect-Resume.pdf)
+
 ---
 
 ## 🛠️ Skills & Technologies
