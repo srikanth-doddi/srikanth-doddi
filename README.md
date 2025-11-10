@@ -26,12 +26,7 @@ Innovative architect and engineering leader with 8 years of experience in full-s
 
 Currently leading the AIML Center of Excellence at OSI Digital, specializing in GenAI, Retrieval-Augmented Generation (RAG), event-driven cloud architectures, and cutting-edge AI systems.
 
-## 🏆 Achievements & Awards
 - Speaker at PyCon India 2025 on Retrieval-Augmented Generation (RAG)  
-- OSI Manager of the Year, 2024  
-- OSI Performer of the Year, 2022  
-- Accenture ACE Awards in Future Ready Skills Category, 2020
-- Accenture Spot Awards, 2019
 - Co-organizer for FOSS community events  
 
 > “Design with purpose, build with passion, lead with innovation.”
