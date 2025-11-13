@@ -1,5 +1,5 @@
 # Hi, I'm Srikanth Doddi 👋  
-**Architect | AI/ML | Cloud Leader | Full-Stack Developer**
+**Architect | AI/ML | Cloud | Full-Stack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srikanthdoddi-blue?logo=linkedin)](https://linkedin.com/in/srikanthdoddi)  [![Email](https://img.shields.io/badge/Email-srikanth.cloudarch@gmail.com-red?logo=gmail)](mailto:srikanth.cloudarch@gmail.com)  [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=flat-square&logo=adobeacrobat&logoColor=white)](./Srikanth-Doddi-Architect-Resume.pdf)
 
